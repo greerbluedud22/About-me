@@ -1,10 +1,10 @@
 
 /* Section */
 .project-section {
-    background-color: aqua;
+    background-color: rgb(61, 61, 255);
     padding: 30px;
     margin: 20px 0;
-    border: 2px solid #2563eb;
+    border: 2px solid #291c7d;
     border-radius: 10px;
 }
     
